@@ -1,0 +1,3 @@
+D:/C++ projects/taskManager/cmake-build-debug/CMakeFiles/taskManager.dir
+D:/C++ projects/taskManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++ projects/taskManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
